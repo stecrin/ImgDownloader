@@ -42,5 +42,6 @@ This script is provided for educational and personal use only. The author is not
 [stecrin](https://github.com/stecrin)
 
 ## License
-MIT
+This project is licensed under the [MIT License](LICENSE).
+
 
