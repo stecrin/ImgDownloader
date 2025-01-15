@@ -24,10 +24,19 @@ This project provides a JavaScript-based solution for automatically scrolling th
 2. Paste the script and hit `Enter`.
 3. Watch the images being downloaded automatically!
 
+## Known Issues
+- May not work with images loaded via JavaScript after scrolling.
+- Pagination support may fail on some websites.
 
 ## Future Enhancements
 - Add support for customizable download delays.
 - Handle more complex pagination scenarios.
+
+## Contributing
+Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+
+## Disclaimer
+This script is provided for educational and personal use only. The author is not responsible for any misuse of this tool. Users must ensure compliance with website terms of service and copyright laws.
 
 ## Author
 [stecrin](https://github.com/stecrin)
